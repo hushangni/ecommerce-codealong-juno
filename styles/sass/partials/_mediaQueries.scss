@@ -47,6 +47,11 @@
         }
     }
 
+    .slideOutNav {
+        font-family: $primaryFont;
+        @include fontSize(30);
+    }
+
     .play {
         padding: 0;
     }
